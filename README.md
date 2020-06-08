@@ -1,1 +1,3 @@
-Go Blockchain
+# gChain
+UTXO and PoW based blockchain
+
