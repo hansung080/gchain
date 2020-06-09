@@ -1,3 +1,2 @@
 # gChain
-UTXO and PoW based blockchain
-
+Simple blockchain with UTXO and PoW
